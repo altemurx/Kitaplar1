@@ -1,8 +1,9 @@
 # Başlıklar
 
 # Alt Baslik Degistirildi Linkler Eklendi
-aasdasdasd
-asdasdasd
+ aasdasdasd
+ asdasdasd
+ merhaba 
 
-[lorem İpsum]{http://google.com}
+[loremİpsum] (http://google.com)
 
