@@ -1,3 +1,3 @@
 # BASLIKLAR
 
-# SENİ SİKERİM COCUUUK
+# SEN
