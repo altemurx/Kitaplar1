@@ -4,5 +4,5 @@
 aasdasdasd
 asdasdasd
 
-[loremİpsum]{http://google.com}
+[lorem İpsum]{http://google.com}
 
